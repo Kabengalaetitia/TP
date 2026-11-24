@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
 /// Couleurs de l'application (reprises du TP1).
 const Color bleuNuit = Color(0xFF14213D);
