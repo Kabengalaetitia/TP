@@ -114,6 +114,8 @@ flutter test
 
 Ajoute tes nouvelles captures dans un dossier "captures" puis décommente les lignes ci-dessous.
 
+<!-- Ajoute tes nouvelles captures dans un dossier "captures" puis décommente les lignes ci-dessous. -->
+
 | Connexion | Cv | Famille | Contact |
 |---|---|---|
 | ![Connexion](captures/connexion.png) | ![Cv](captures/cv.png) | ![Famille](captures/famille.png) | ![Contact](captures/contact.png) |
