@@ -118,9 +118,11 @@ Ajoute tes nouvelles captures dans un dossier "captures" puis décommente les li
 
 <!-- Ajoute tes nouvelles captures dans un dossier "captures" puis décommente les lignes ci-dessous. -->
 
+
 | Connexion | Cv | Famille | Contact |
-|---|---|---|
-| ![Connexion](captures/connexion.png) | ![Cv](captures/cv.png) | ![Famille](captures/famille.png) | ![Contact](captures/contact.png) |
+|---|---|---|---|
+| ![Connexion](screenshots/connexion.png) | ![Cv](screenshots/cv.png) | ![Famille](screenshots/famille.png) | ![Contact](screenshots/contact.png) |
+
 
 <<<<<<< HEAD
 
