@@ -113,6 +113,8 @@ flutter test
 ## 📸 Captures d'écran
 
 Ajoute tes nouvelles captures dans un dossier "captures" puis décommente les lignes ci-dessous.
+<!-- Ajoute tes nouvelles captures dans un dossier "captures" puis décommente les lignes ci-dessous. -->
+
 
 <!-- Ajoute tes nouvelles captures dans un dossier "captures" puis décommente les lignes ci-dessous. -->
 
@@ -120,7 +122,10 @@ Ajoute tes nouvelles captures dans un dossier "captures" puis décommente les li
 |---|---|---|
 | ![Connexion](captures/connexion.png) | ![Cv](captures/cv.png) | ![Famille](captures/famille.png) | ![Contact](captures/contact.png) |
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 569e1c7 (Réorganisation des captures d'écran et mise à jour du README)
 
 ## ⚠️ Limites connues
 
