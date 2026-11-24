@@ -12,7 +12,11 @@ La **connexion est réelle** : les comptes sont enregistrés dans la base de don
 
 ## 🎬 Vidéo de démonstration
 
-<!-- ⬇️ Glisse ta vidéo .mp4 ici depuis l'éditeur GitHub : un lien https://github.com/user-attachments/assets/... apparaîtra à la place de cette ligne. -->
+
+
+https://github.com/user-attachments/assets/e81aa432-57f3-4c17-9f6b-3bc946a69d80
+
+
 
 ---
 
